@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Hydra
+comment0.text=\r\n\ Hydra\ is\ a\ program\ that\ will\ simulate\ the\ work\ done\ for\ a\r\n\ computational\ task\ that\ can\ be\ broken\ down\ into\ smaller\ subtasks.\r\n\ \r\n\ @author\ Charles\ Hoot\r\n\ @version\ 4.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=heads\ work
+comment2.target=boolean\ simulationStep(BagInterface,\ BagInterface)
+comment2.text=\r\n\ Take\ one\ head\ from\ the\ headBag\ bag.\ \ If\ it\ is\ a\ final\ head,\ we\ are\ done\ with\ it.\r\n\ Otherwise\ put\ in\ two\ heads\ that\ are\ one\ smaller.\r\n\ Always\ put\ a\ chop\ into\ the\ work\ bag.\r\n\r\n\ @param\ \ headBag\ \ \ A\ bag\ holding\ the\ heads\ yet\ to\ be\ considered.\r\n\ @param\ \ workBag\ \ \ A\ bag\ of\ chops.\r\n\ \r\n
+comment3.params=rangePrompt
+comment3.target=int\ getInt(java.lang.String)
+comment3.text=\r\n\ Get\ an\ integer\ value.\r\n\r\n\ @return\ \ \ \ \ An\ integer.\ \r\n
+numComments=4
