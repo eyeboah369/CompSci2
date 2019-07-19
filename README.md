@@ -1,2 +1,2 @@
 # CompSci2
-Computer Science II: Data Structures Projects
+Computer Science II: Data Structures Projects and Assignments
